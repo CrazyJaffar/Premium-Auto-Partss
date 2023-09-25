@@ -55,7 +55,7 @@
                             <i class="fa fa-phone-square text-theme-colored font-36 sm-display-block"></i>
                         </div>
                         <div class="col-md-10">
-                            <p><b>(331) 757-1137</b></p>
+                            <p><b>(912)922-2204</b></p>
                             <p><b>CALL NOW TO ORDER</b></p>
                         </div>
                     </div>
@@ -223,7 +223,7 @@
                         <div class="x_contact_title_icon_cont">
                             <h3><a href="#">phone Number</a></h3>
                             <p>
-                                 (331) 757-1137
+                                 (912)922-2204
                             </p>
                         </div>
                     </div>
@@ -250,9 +250,9 @@
                         <div class="x_contact_title_icon_cont">
                             <h3><a href="#">Address</a></h3>
                             <p>
-                                <a href="#">5900 N Sheidan RD
+                                <a href="#">601 Telfair St,Dublin,
 
-                                        Chicago, Illinois 60660, United States </a>
+                                        GA 31021,United States</a>
 
                             </p>
                         </div>
@@ -441,7 +441,7 @@
                             </div>
                             <div class="x_footer_bottom_icon_cont">
                                 <h4>CALL NOW TO ORDER</h4>
-                                <p><a href="tel:(650)549-7878"> (331) 757-1137</a></p>
+                                <p><a href="tel:(650)549-7878"> (912)922-2204</a></p>
                             </div>
                         </div>
                         <div class="x_footer_bottom_icon_section x_footer_bottom_icon_section2 float_left">
@@ -466,7 +466,7 @@
             <p class="">© 2021  Find Me A Part</p>
             
         </div>
-        <a onclick="return gtag_report_conversion('tel: (331) 757-1137');" href="tel:(331) 757-1137" class="call_blink"><i class="Phone is-animating"></i></a>
+        <a onclick="return gtag_report_conversion('tel: (912)922-2204');" href="tel:(912)922-2204" class="call_blink"><i class="Phone is-animating"></i></a>
     </div>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
